@@ -1,4 +1,4 @@
-This repo was a project I wanted to finish during my undergrad, but due to changes in my research focus in grad school, I could only work on it in my spare time. It’s purely a passion project, so please go easy on me if there are any mistakes. `(*>﹏<*)′
+This repo was a project I wanted to finish during my undergrad. Now I could only work on it in my spare time. It’s purely a passion project, so please go easy on me if there are any mistakes. `(*>﹏<*)′
 
 # px4-tutorial
 The problems I have encountered in learning to make a drone will be documented again in this repository.
